@@ -171,3 +171,5 @@ func (h *campaignHandler) UploadImage(c *gin.Context) {
 	return
 
 }
+
+
